@@ -1,0 +1,4 @@
+tensorflow-cpu==2.20.0
+fastapi>=0.115,<1
+pillow>=12.2,<13
+uvicorn>=0.34,<1
